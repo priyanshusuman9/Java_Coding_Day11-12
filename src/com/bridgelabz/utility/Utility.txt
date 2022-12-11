@@ -1,0 +1,4 @@
+stockname="Priyanshu";
+stockprice=345;
+noofshares=56;
+shareprice=434443;
